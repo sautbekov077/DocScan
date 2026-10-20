@@ -1,7 +1,6 @@
 # 📱 DocScan
-<p align="center">
-  <img src="icon-512.png" alt="VibeScanner Logo" width="128" style="border-radius: 24px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
-</p>
+![VibeScanner Logo](icon-512.png)
+
 
 Полностью автономный офлайн-сканер документов прямо в вашем браузере. Приложение построено по технологии **Progressive Web App (PWA)**, что позволяет установить его как нативное приложение на iOS и Android без публикации в магазинах приложений.
 
